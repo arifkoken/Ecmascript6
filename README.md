@@ -1,3 +1,5 @@
 # Ecmascript6
 
-node src/let-vs-const.js komutu ile dosyarı çalıştırabilirsiniz.
+node src/node src/let-vs-const.js söz diziminde let-vs-const.js yerine çalıştırmak istediğiniz dosyayı yazarak deneme yapabilirsiniz.
+
+İyi çalışmalar
